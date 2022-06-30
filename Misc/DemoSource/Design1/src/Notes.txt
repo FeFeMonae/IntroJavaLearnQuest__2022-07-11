@@ -1,0 +1,19 @@
+Design Patterns
+
+Open-Close
+
+When we extended the box to cube with inheritance - we didn't change the box class
+
+Two kinds of interface
+1. imperative interface (functional interface)
+2. declarative interface
+
+interface d {
+    java methods
+    }
+    
+Imperative interfaces defined the command to be executed.
+ - describe how to do something.
+
+Declarative Interface
+ - describes what is to been

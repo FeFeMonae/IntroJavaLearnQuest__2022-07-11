@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Abort/src"/>
+	<classpathentry kind="src" path="Box/src"/>
+	<classpathentry kind="src" path="Classes/src"/>
+	<classpathentry kind="src" path="Design1/src"/>
+	<classpathentry kind="src" path="Exception/src"/>
+	<classpathentry kind="src" path="HelloWorld/src"/>
+	<classpathentry kind="src" path="Inherit/src"/>
+	<classpathentry kind="src" path="Interface/src"/>
+	<classpathentry kind="src" path="Lab3/src"/>
+	<classpathentry kind="src" path="Operations/src"/>
+	<classpathentry kind="src" path="Scoping/src"/>
+	<classpathentry kind="src" path="Singleton/src"/>
+	<classpathentry kind="src" path="StringWork/src"/>
+	<classpathentry kind="output" path="Box/bin"/>
+</classpath>
